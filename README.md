@@ -1,7 +1,4 @@
-# e-commerce-browseraddon-react
-<p align="center">
-  <img src="" alt="Add-on ReactJS Logo" width="250">
-</p>
+
 
 <h1 align="center"> E-Commerce Browser Add-on ReactJS </h>
 
